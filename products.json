@@ -1,0 +1,40 @@
+[{
+  "product":
+  {
+    "electronic": 
+    [
+      {"uniqueId":"E1","name":"electronic1","price":"Rs8000","description":"Description of Electronic1","image":"./assets/content/elec1.jpeg"},
+      {"uniqueId":"E2","name":"electronic2","price":"Rs9000","description":"Description of Electronic2","image":"./assets/content/elec2.jpeg"},
+      {"uniqueId":"E3","name":"electronic3","price":"Rs2000","description":"Description of Electronic3","image":"./assets/content/elec3.jpeg"},
+      {"uniqueId":"E4","name":"electronic4","price":"Rs9000","description":"Description of Electronic4","image":"./assets/content/elec4.jpeg"},
+      {"uniqueId":"E5","name":"electronic5","price":"Rs7000","description":"Description of Electronic5","image":"./assets/content/elec5.jpeg"},
+      {"uniqueId":"E6","name":"electronic6","price":"Rs3000","description":"Description of Electronic6","image":"./assets/content/elec6.jpeg"}      
+    ],
+    "fashion": 
+    [
+     {"uniqueId":"F1","name":"fashion1","price":"Rs800","description":"Description of fashion1","image":"./assets/content/fashion1.jpeg"},
+     {"uniqueId":"F2","name":"fashion2","price":"Rs900","description":"Description of fashion2","image":"./assets/content/fashion2.jpeg"},
+     {"uniqueId":"F3","name":"fashion3","price":"Rs200","description":"Description of fashion3","image":"./assets/content/fashion3.jpeg"},
+     {"uniqueId":"F4","name":"fashion4","price":"Rs900","description":"Description of fashion4","image":"./assets/content/fashion4.jpeg"},
+     {"uniqueId":"F5","name":"fashion5","price":"Rs700","description":"Description of fashion5","image":"./assets/content/fashion5.jpeg"},
+     {"uniqueId":"F6","name":"fashion6","price":"Rs300","description":"Description of fashion6","image":"./assets/content/fashion6.jpeg"}
+   ],
+
+    "book": 
+    [
+     {"uniqueId":"B1","name":"book1","price":"Rs100","description":"Description of book1","image":"./assets/content/book1.jpeg"},
+     {"uniqueId":"B2","name":"book2","price":"Rs150","description":"Description of book2","image":"./assets/content/book2.jpeg"},
+     {"uniqueId":"B3","name":"book3","price":"Rs200","description":"Description of book3","image":"./assets/content/book3.jpeg"},
+     {"uniqueId":"B4","name":"book4","price":"Rs300","description":"Description of book4","image":"./assets/content/book4.jpeg"}
+   ],
+    "watch": 
+    [
+      {"uniqueId":"W1","name":"watch1","price":"Rs25000","description":"Description of watch1","image":"./assets/content/watch1.jpeg"},
+      {"uniqueId":"W2","name":"watch2","price":"Rs9009","description":"Description of watch2","image":"./assets/content/watch2.jpeg"},
+      {"uniqueId":"W3","name":"watch3","price":"Rs2007","description":"Description of watch3","image":"./assets/content/watch3.jpeg"},
+      {"uniqueId":"W4","name":"watch4","price":"Rs9006","description":"Description of watch4","image":"./assets/content/watch4.jpeg"},
+      {"uniqueId":"W5","name":"watch5","price":"Rs7006","description":"Description of watch5","image":"./assets/content/watch5.jpeg"},
+      {"uniqueId":"W6","name":"watch6","price":"Rs3003","description":"Description of watch6","image":"./assets/content/watch6.jpeg"}
+    ]
+  }
+}]
