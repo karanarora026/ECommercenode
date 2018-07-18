@@ -4,6 +4,7 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var productRouter = require('./routes/product');
+var itemRouter = require('./routes/item');
 var cartRouter = require('./routes/cart');
 var app = express();
 var mongoose = require('mongoose');
@@ -34,6 +35,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.use('/cart', cartRouter);
+app.use('/item',itemRouter);
 app.use('/', productRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
